@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2016.9.10)  4 AUG 2017 18:49
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2016.9.10)  4 AUG 2017 18:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -981,7 +981,7 @@ tly
 LaTeX Info: Redefining \FA on input line 164.
 \g__fontspec_family_Roboto_int=\count168
 )
-No file SaiResume.aux.
+(./SaiResume.aux)
 \openout1 = `SaiResume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
@@ -1000,7 +1000,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 74.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 74.
-(/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 74.
@@ -1098,12 +1098,10 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 74.
 LaTeX Info: Redefining \pageref on input line 74.
 LaTeX Info: Redefining \nameref on input line 74.
+
+(./SaiResume.out) (./SaiResume.out)
 \@outlinefile=\write5
 \openout5 = `SaiResume.out'.
-
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 \headertextwidth=\skip79
 \headerphotowidth=\skip80
@@ -1184,9 +1182,9 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 102.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 102.
  ) 
 Here is how much of TeX's memory you used:
- 40305 strings out of 493727
- 768051 string characters out of 6147890
- 888309 words of memory out of 5000000
+ 40311 strings out of 493727
+ 768135 string characters out of 6147890
+ 888458 words of memory out of 5000000
  43106 multiletter control sequences out of 15000+600000
  6454 words of font info for 83 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
