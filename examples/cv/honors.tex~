@@ -1,0 +1,116 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Achievements/Certificates/Social}
+
+
+%-------------------------------------------------------------------------------
+%	SUBSECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsubsection{Achievements}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvhonors}
+
+%---------------------------------------------------------
+  \cvhonor
+    {Qualified and Participated in the Finale} % Award
+    {Smart India Hackathon, Organized by HRD and DAE} % Event
+    {Mumbai} % Location
+    {Apr. 2017} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+    {Special Mention} % Award
+    {CodeShastra 3.0,Organized by DJ Sanghvi CSI} % Event
+    {Mumbai} % Location
+    {Jan. 2017} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+    {4th Place} % Award
+    {Judiciary Theme, Transform Maharashtra} % Event
+    {Popular Choice} % Location
+    {2017} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+    {Merit Scholarship} % Award
+    {Certificate of Achievement by Government of Maharashtra for finishing in Top 1 \%tile} % Event
+    {HSC} % Location
+    {2015} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+    {Inpire Award} % Award
+    {Selected by State Government - District Level} % Event
+    {Mumbai} % Location
+    {2013} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+    {Sports Achievements} % Award
+    {Inter-Class College} % Event
+    {Tug of War - Winners(Jan 2016)  Cricket - Runner Ups(Feb 2017)} % Location
+    {2015} % Date(s)
+%---------------------------------------------------------
+\end{cvhonors}
+
+
+%-------------------------------------------------------------------------------
+%	SUBSECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsubsection{Certificates}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvhonors}
+
+%---------------------------------------------------------
+  \cvhonor
+    {RTOS and uC Linux} % Award
+    {Course : Certificate of Participation} % Event
+    {S.P.I.T, Mumbai}
+    {2015}
+%---------------------------------------------------------
+  \cvhonor
+    {Internet of Things and Wireless Sensor Network} % Event
+    {A Hands on Workshop for IoT and related Modules} % Date(s)
+    {S.P.I.T, Mumbai}
+    {2016}
+%---------------------------------------------------------
+\end{cvhonors}
+
+
+
+%-------------------------------------------------------------------------------
+%	SUBSECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsubsection{Social}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvhonors}
+
+%---------------------------------------------------------
+  \cvhonor
+    {Active Member of 'ONE'} % Award
+    {A NGO acctively working for the betterment of Old and Elderly} % Event
+    {Mumbai}
+    {Present}
+%---------------------------------------------------------
+  \cvhonor
+    {Voluntary Blood Donor} % Event
+    {3 x Certificate of Appreciation} % Date(s)
+    {Mumbai}
+    {Active}
+%---------------------------------------------------------
+
+\end{cvhonors}

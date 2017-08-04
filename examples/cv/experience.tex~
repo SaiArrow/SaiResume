@@ -1,0 +1,58 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Work Experience}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {UI/UX Designer} % Job title
+    {Ebzaar.com} % Organization
+    {July. 2017 - PRESENT} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Developing UI/UX Designs for Android App(Further Details covered under NDC.)}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Android Developer} % Job title
+    {TISS} % Organization
+    {July. 2016 - Nov. 2017} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Worked on Building an Android App to Empower Elected Women Representatives.}
+        \item {Invovled mainly in Fornt End Development.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Content Developer} % Job title
+    {IndianSportsNews} % Organization
+    {Aug. 2016 - Dec. 2016} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Published articles on various Sporting Events and Satrical take on certain events.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Summer Training/Internship Program} % Job title
+    {Emtron} % Organization
+    {May. 2015 - July. 2015} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Worked on ARM,AVR,DSP,FPGA and RTOS based SYstems.}
+        \item {Was placed in Top 5 in Embedded C Coding Competition.}
+      \end{cvitems}
+    }
+%---------------------------------------------------------
+\end{cventries}

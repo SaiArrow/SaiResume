@@ -1,0 +1,45 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Education}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {B.E. in Computer Engineering} % Degree
+    {S.P.I.T (Sardar Patel Institue of Technology)} % Institution
+    {July. 2015 - Present} % Date(s)
+    {CGPA : 8.92} % Marks(s)
+    {
+      \begin{cvitems} % Description(s) bullet points
+        \item {Currently Studying in Third Year of Computer Engineering Program}
+      \end{cvitems}
+    }
+  \cventry
+    {HSC} % Degree
+    {Vidyanidhi Jr. College of Science} % Institution
+    {June. 2013 - May. 2015} % Date(s)
+    {Percentage : 90.15} % Marks(s)
+    {
+      \begin{cvitems} % Description(s) bullet points
+        \item {Enrolled in the HSC Science Program}
+      \end{cvitems}
+    }
+  \cventry
+    {SSC} % Degree
+    {Bhavan's A.H Wadia High School} % Institution
+    {Mar. 2013} % Date(s)
+    {Percentage : 93.64} % Marks(s)
+    {
+      \begin{cvitems} % Description(s) bullet points
+        \item {Completed my High School here}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+\end{cventries}
