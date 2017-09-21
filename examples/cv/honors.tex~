@@ -53,9 +53,9 @@
 %---------------------------------------------------------
   \cvhonor
     {Sports Achievements} % Award
-    {Inter-Class College} % Event
-    {Tug of War - Winners(Jan 2016)  Cricket - Runner Ups(Feb 2017)} % Location
-    {2015} % Date(s)
+    {Tug of War - Winners(Jan 2016)  Cricket - Runner Ups(Feb 2017)} % Event
+    {Inter-Class} % Location
+    {2015-Present} % Date(s)
 %---------------------------------------------------------
 \end{cvhonors}
 

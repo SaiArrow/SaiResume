@@ -54,7 +54,7 @@
     {July. 2017 - Present} % Date(s)
     {
       \begin{cvitems} % Description(s)
-        \item {Netflix like Website but for Music and Books using Ruby on Rails Back-end Framework integrated with AWS}
+        \item {A Website for Streaming \& Uploading Movies,Music \& Books using Ruby on Rails Back-end Framework integrated with AWS S3 (use of heroku and PostgreSQL)}
       \end{cvitems}
     }
 
