@@ -12,12 +12,12 @@
 %---------------------------------------------------------
   \cvskill
     {Programming} % Category
-    {Python, Ruby, C/C++, JAVA, Embedded C} % Skills
+    {C/C++, JAVA, Python, Ruby, Embedded C} % Skills
 
 %---------------------------------------------------------
   \cvskill
     {Web} % Category
-    {JavaScript, React, HTML5, Ruby on Rails, CSS, MySQL} % Skills
+    {JavaScript, HTML5, Ruby on Rails, React, CSS, MySQL} % Skills
 
 %---------------------------------------------------------
   \cvskill
@@ -27,7 +27,7 @@
 %---------------------------------------------------------
   \cvskill
     {Non-Tech and Others} % Category
-    {Adobe Photoshop, Adobe Illustrator, Microsoft Office, Linux, AutoCAD} % Skills
+    {Adobe Photoshop, Adobe Illustrator, Microsoft Office, Linux, AutoCAD, Latex} % Skills
 
 %---------------------------------------------------------
 \end{cvskills}

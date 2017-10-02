@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2016.9.10)  22 SEP 2017 00:43
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2016.9.10)  2 OCT 2017 22:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1160,7 +1160,7 @@ ut line 22.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 22.
 ) (./cv/skills.tex
-Overfull \hbox (55.6308pt too wide) in alignment at lines 10--33
+Overfull \hbox (66.92079pt too wide) in alignment at lines 10--33
 [] [] 
  []
 
@@ -1184,7 +1184,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 103.
 Here is how much of TeX's memory you used:
  40311 strings out of 493727
  768135 string characters out of 6147890
- 889456 words of memory out of 5000000
+ 891458 words of memory out of 5000000
  43106 multiletter control sequences out of 15000+600000
  6454 words of font info for 83 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
